@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --> 
+
 ### About Me 🚀
 - 🎓 I'm a sophmore pursuing my Bachelor's in Computer Engineering.
 - 🌱 I am passionate about Full Stack, Machine Learning and I enjoy learning new things.
