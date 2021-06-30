@@ -10,6 +10,6 @@
 
 ### About Me 🚀
 - 🎓 I'm a sophmore pursuing my Bachelor's in Computer Engineering.
-- 🌱 I am passionate about Full Stack, Machine Learning and I enjoy learning new things.
+- 🌱 I am passionate about Full Stack and I enjoy learning new things.
 - 🎯 I have worked on projects with Python, django, JavaScript, C/C++, Node, React
 - ⚡ Fun fact: I love home grown oranges🍊 Bob Dylan🎧 and Physics🚀
