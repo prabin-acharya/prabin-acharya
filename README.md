@@ -9,6 +9,6 @@
 <br />
 
 ### About Me 🚀
-- 🎓 I'm a sophmore pursuing my Bachelor's in Computer Engineering.
+- 🎓 I'm a sophmore pursuing my Bachelors in Computer Engineering.
 - 🌱 I am passionate about Full Stack and I enjoy learning new things.
-- 🎯 I have worked on projects with Python, django, JavaScript, C/C++, Node, React
+- 🎯 I have worked on projects with Python, django, JavaScript, Node, React, C/C++
